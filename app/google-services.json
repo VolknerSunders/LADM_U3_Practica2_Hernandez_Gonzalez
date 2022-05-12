@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "272411446412",
+    "project_id": "practica2-b519e",
+    "storage_bucket": "practica2-b519e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272411446412:android:1ed64ea3600526bc8c3fa9",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272411446412-imdj3ed3iq0jr814f7e1q0d6q3ob2ave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDV_8YOHgTXYFqkgp7JsHBL7DgR-_OpjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272411446412-imdj3ed3iq0jr814f7e1q0d6q3ob2ave.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272411446412:android:84682341fceb95d78c3fa9",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2_hernandez_gonzalez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272411446412-imdj3ed3iq0jr814f7e1q0d6q3ob2ave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDV_8YOHgTXYFqkgp7JsHBL7DgR-_OpjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272411446412-imdj3ed3iq0jr814f7e1q0d6q3ob2ave.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
